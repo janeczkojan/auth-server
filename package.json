@@ -4,5 +4,8 @@
   "main": "dist/index.js",
   "repository": "https://github.com/janeczkojan/auth-server.git",
   "author": "Jan Janeczko <janeczko.jan@hotmail.com>",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  }
 }
